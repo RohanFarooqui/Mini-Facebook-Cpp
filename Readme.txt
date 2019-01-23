@@ -10,8 +10,8 @@
 
 Mini FAcebook Project:
 
--> Change drive letter in all paths i.e. E:// to curretnt drive path you copy paste
+-> Change drive letter in all paths i.e. E:// to current drive path you copy paste
 -> Copy only Mini FB folder to the drive 
 
 Thanks
-M.ROHAN FAROOQUI ©
+M.ROHAN FAROOQUI Â©
