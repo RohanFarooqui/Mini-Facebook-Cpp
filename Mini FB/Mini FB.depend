@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1541856565 source:e:\mini fb\main.cpp
+	<iostream>
+	<string.h>
+	<fstream>
+	<stdlib.h>
+	<stdio.h>
+	<cstdlib>
+	<time.h>
+	<string>
+	<windows.h>
+	<conio.h>
+	<dos.h>
+	<direct.h>
+	<stdio.h>
+
