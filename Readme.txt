@@ -12,6 +12,7 @@ Mini FAcebook Project:
 
 -> Change drive letter in all paths i.e. E:// to current drive path you copy paste
 -> Copy only Mini FB folder to the drive 
+-> Youtube video Link : https://youtu.be/_TapBnbYMOk
 
 Thanks
 M.ROHAN FAROOQUI ©
