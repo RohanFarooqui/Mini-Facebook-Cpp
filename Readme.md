@@ -24,10 +24,10 @@ etc.
 
 #### **Other Links** 
 
-####  Support me on **Patreon** : https://www.patreon.com/rohanfarooqui
+Support me on **Patreon** : https://www.patreon.com/rohanfarooqui
 
-####  Linkedin                  : https://www.linkedin.com/in/m-rohan-farooqui-03745614a/
+Linkedin                  : https://www.linkedin.com/in/m-rohan-farooqui-03745614a/
 
-####  Stack Over Flow           : https://stackoverflow.com/users/8807619/m-rohan-farooqui
+Stack Over Flow           : https://stackoverflow.com/users/8807619/m-rohan-farooqui
 
 
