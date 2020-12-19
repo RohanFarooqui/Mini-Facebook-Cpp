@@ -10,7 +10,7 @@
 
 etc.
 
-### Technologies :
+### **Technologies** :
 * Language : C++.
 * File handling.
 * Folder handling.
@@ -22,7 +22,7 @@ etc.
 
 #### M.ROHAN FAROOQUI © 
 
-##### Other Links 
+#### **Other Links** 
 
 ####  Support me on **Patreon** : https://www.patreon.com/rohanfarooqui
 
