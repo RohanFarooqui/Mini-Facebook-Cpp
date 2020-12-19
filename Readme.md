@@ -2,7 +2,7 @@
 
 ### Description:
 
-#### I created this project in **C++**. In normal __FaceBook__ we :
+I created this project in **C++**. In normal __FaceBook__ we :
 * Login using User Name / Password.
 * Send friend requests.
 * Block a friend.
