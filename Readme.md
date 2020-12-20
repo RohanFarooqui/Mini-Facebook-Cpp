@@ -1,35 +1,27 @@
-
 ![](https://github.com/LOL-32/Mini-Facebook-Cpp/blob/master/Images/screenshot_20180609_084909.png)
 
-# **Mini Facebook C++** :
+# **Mini Facebook Cpp** :
 
-### **Description**:
+### **Description** :
 
 I created this project in **C++**. In normal __FaceBook__ we :
 * Login using User Name / Password.
 * Send friend requests.
 * Block a friend.
 * Like a page. 
-
 etc.
 
-### **Technologies** :
+### **Libraries & Languages Used** :
 * Language : C++.
 * File handling.
 * Folder handling.
 
-##### In order to run this code : Change drive letter in all paths i.e. E:// to current drive path you copy paste
+### **To Run this Code** :
 
-Details            : https://rohanfarooqui.wordpress.com/2018/04/27/mini-face-book/
+In order to run this code : Change drive letter in all paths i.e. E:// to current drive path you copy paste
 
-Demo  video Link   : https://www.youtube.com/watch?v=_TapBnbYMOk
+### **Other Details** :
 
-#### **Other Links** 
+Blog               : https://rohanfarooqui.wordpress.com/2018/04/27/mini-face-book/
 
-Support me on **Patreon** : https://www.patreon.com/rohanfarooqui
-
-Linkedin                  : https://www.linkedin.com/in/m-rohan-farooqui-03745614a/
-
-Stack Over Flow           : https://stackoverflow.com/users/8807619/m-rohan-farooqui
-
-
+Demo (video Link)  : https://www.youtube.com/watch?v=_TapBnbYMOk
