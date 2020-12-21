@@ -2,6 +2,8 @@
 
 # **Mini Facebook Cpp** :
 
+### ** Language ** : C++
+
 ### **Description** :
 
 I created this project in **C++**. In normal __FaceBook__ we :
@@ -11,8 +13,7 @@ I created this project in **C++**. In normal __FaceBook__ we :
 * Like a page. 
 etc.
 
-### **Libraries & Languages Used** :
-* Language : C++.
+All things are done using :
 * File handling.
 * Folder handling.
 
