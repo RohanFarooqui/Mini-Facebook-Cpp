@@ -1,6 +1,6 @@
 ![](https://github.com/LOL-32/Mini-Facebook-Cpp/blob/master/Images/screenshot_20180609_084909.png)
 
-# **Mini Facebook Cpp** :
+# **Mini Facebook Cpp**
 
 ### **Language** : C++
 
